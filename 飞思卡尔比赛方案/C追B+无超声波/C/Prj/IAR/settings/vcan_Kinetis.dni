@@ -1,0 +1,87 @@
+[Stack]
+FillEnabled=0
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnLogOnly=1
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[DebugChecksum]
+Checksum=-854577257
+[Exceptions]
+StopOnUncaught=_ 0
+StopOnThrow=_ 0
+[CallStack]
+ShowArgs=0
+[Disassembly]
+MixedMode=1
+[JLinkDriver]
+CStepIntDis=_ 0
+TraceBufferSize=0x00010000
+TraceStallIfFIFOFull=0x00000000
+TracePortSize=0x00000004
+[InterruptLog]
+LogEnabled=0
+SumEnabled=0
+GraphEnabled=0
+ShowTimeLog=1
+ShowTimeSum=1
+SumSortOrder=0
+[DataLog]
+LogEnabled=0
+SumEnabled=0
+GraphEnabled=0
+ShowTimeLog=1
+ShowTimeSum=1
+[Interrupts]
+Enabled=1
+[MemoryMap]
+Enabled=0
+Base=0
+UseAuto=0
+TypeViolation=1
+UnspecRange=1
+ActionState=1
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[Trace1]
+Enabled=0
+ShowSource=1
+[CallStackLog]
+Enabled=0
+[DriverProfiling]
+Enabled=0
+Mode=1
+Graph=0
+Symbiont=0
+Exclusions=
+[Disassemble mode]
+mode=0
+[Breakpoints2]
+Count=0
+[Aliases]
+A0=_ "C:\Users\Administrator.USER-20150226LF\Desktop\B\App\main.c" ""
+A1=_ "C:\Users\Administrator.USER-20150226LF\Desktop\B\Lib\CMSIS\Inc\core_cm4.h" ""
+A2=_ "C:\Users\wangchangping\Desktop\飞思卡尔电磁组(B)\Chip\src\IAR\startup_MK60DZ10.s" ""
+A3=_ "C:\Users\wangchangping\Desktop\飞思卡尔电磁组(B)\Chip\src\MK60_ftm.c" ""
+A4=_ "H:\飞思卡尔\B车\B\Chip\src\IAR\system_MK60DZ10.c" ""
+A5=_ "H:\飞思卡尔\B车\B\Chip\src\MK60_adc.c" ""
+A6=_ "H:\飞思卡尔\B车\B\Chip\src\MK60_wdog.c" ""
+A7=_ "H:\飞思卡尔\B车\B\Chip\src\misc.c" ""
+A8=_ "H:\飞思卡尔\比赛方案\2.开环有通信\B发C收\B\App\HARDWARE_Start.c" ""
+A9=_ "H:\飞思卡尔\比赛方案\2.开环有通信\B发C收\B\App\main.c" ""
+A10=_ "H:\飞思卡尔\比赛方案\2.开环有通信\B发C收\B\Lib\CMSIS\Inc\core_cm4.h" ""
+A11=_ "J:\飞思卡尔\B车\B\App\Dial_switch.c" ""
+A12=_ "J:\飞思卡尔\B车\B\Board\src\OLED.c" ""
+A13=_ "J:\飞思卡尔\B车\飞思卡尔电磁组(B)\Chip\src\IAR\system_MK60DZ10.c" ""
+A14=_ "J:\飞思卡尔\B车\飞思卡尔电磁组(B)\Chip\src\MK60_wdog.c" ""
+A15=_ "J:\飞思卡尔\B车\飞思卡尔电磁组(B)\Chip\src\misc.c" ""
+Count=16
+SuppressDialog=0
